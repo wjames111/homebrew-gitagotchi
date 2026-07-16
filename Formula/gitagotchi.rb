@@ -1,8 +1,8 @@
 class Gitagotchi < Formula
   desc "Terminal Tamagotchi whose entire life is derived from your GitHub account"
   homepage "https://github.com/wjames111/gitagotchi"
-  url "https://github.com/wjames111/gitagotchi/archive/refs/tags/v1.0.5.tar.gz"
-  sha256 "002c5012bae35f06ac41875364771a7d5725fdcad350865c618202fa2b4cf74c"
+  url "https://github.com/wjames111/gitagotchi/archive/refs/tags/v1.0.6.tar.gz"
+  sha256 "218cd46f07fcb9d2882d86f3367cc5e8a421fa1ff171f3dc9fb01a15d0f5357d"
   license "MIT"
 
   depends_on "bash"
